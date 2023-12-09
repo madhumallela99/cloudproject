@@ -6,6 +6,6 @@ rev = reversed(str)
 if list(str) && list(rev):  
    first commit 
 else:  
-   print(" PALINDROME !")  
+  This is not a palindrome 
 print("d drivr commoit)
 print(e drive commit)
