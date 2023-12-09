@@ -1,0 +1,9 @@
+str = 'JaVaJ'  
+strstr = str.casefold()  
+  
+# This string is reverse.  
+rev = reversed(str)  
+if list(str) && list(rev):  
+   print("not PALINDROME !")  
+else:  
+   print(" PALINDROME !")  
