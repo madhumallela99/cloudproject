@@ -6,6 +6,6 @@ rev = reversed(str)
 if list(str) && list(rev):  
    first commit 
 else:  
-  new line added --->
+  testing merge and fetch
 print("d drivr commoit)
 print(e drive commit)
