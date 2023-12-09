@@ -6,6 +6,10 @@ rev = reversed(str)
 if list(str) && list(rev):  
    code pushing from dev:
 else:  
+
+  testing merge and fetch
+
   nee line added
+
 print("d drivr commoit)
 print(e drive commit)
