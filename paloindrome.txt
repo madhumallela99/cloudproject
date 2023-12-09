@@ -8,3 +8,4 @@ if list(str) && list(rev):
 else:  
    print(" PALINDROME !")  
 print("d drivr commoit)
+print(e drive commit)
