@@ -7,3 +7,4 @@ if list(str) && list(rev):
    print("not PALINDROME !")  
 else:  
    print(" PALINDROME !")  
+print("d drivr commoit)
