@@ -4,8 +4,12 @@ strstr = str.casefold()
 # This string is reverse.  
 rev = reversed(str)  
 if list(str) && list(rev):  
-   first commit 
+   code pushing from dev:
 else:  
+
   testing merge and fetch
+
+  nee line added
+
 print("d drivr commoit)
 print(e drive commit)
