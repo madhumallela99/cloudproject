@@ -4,7 +4,7 @@ strstr = str.casefold()
 # This string is reverse.  
 rev = reversed(str)  
 if list(str) && list(rev):  
-   first commit 
+   second commit
 else:  
   nee line added
 print("d drivr commoit)
